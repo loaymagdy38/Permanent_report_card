@@ -1,0 +1,23 @@
+# Project Checklist
+
+- [x] Core Smart Contract stores student grades.
+- [x] Admin only can add/update grades.
+- [x] Custom ERC-20 style Grade Coin.
+- [x] Admin only can mint coins.
+- [x] Auto setup/deploy script.
+- [x] onlyOwner modifier.
+- [x] getAdmin view function.
+- [x] Admin dashboard script.
+- [x] Batch add/update grades.
+- [x] Transaction sender script.
+- [x] Terminal app with normal menu and hidden admin menu.
+- [x] User registration and profile.
+- [x] Personal activity history.
+- [x] Coin and ETH balance checker.
+- [x] Security test.
+- [x] Live alert system.
+- [x] Data history report.
+- [x] README documentation.
+- [x] Balance snapshot CSV exporter.
+- [x] Pause and resume switch.
+- [x] Admin ownership transfer script.
